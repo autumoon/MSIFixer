@@ -1,0 +1,25 @@
+# Build artifacts
+x64/
+Debug/
+Release/
+Win32/
+ipch/
+*.obj
+*.tlog
+*.lastbuildstate
+*.log
+*.exp
+*.lib
+*.exe
+
+# VS
+.vs/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opendb
+*.ipch
+
+# Runtime
+*.ini
